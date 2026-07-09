@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Haniel Jean Pierre Ayatode
+# Je répond au nom de Haniel Jean Pierre Ayatode
 
 ### 🎓 Étudiant en Licence Professionnelle de Génie Mécanique | Concepteur CAO | Passionné par la maintenance industrielle
 
