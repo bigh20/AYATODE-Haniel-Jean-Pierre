@@ -189,11 +189,15 @@ Je souhaite évoluer vers les domaines suivants :
 
 # 📫 Me contacter
 
-📧 Email : ton.ayatodehaniel@gmail.com
+📧 Email : ayatodehaniel@gmail.com
+
+📞 Appel : +228 91 01 46 46
+
+💬 WhatsApp : +228 91 01 46 46
 
 💼 LinkedIn : www.linkedin.com/in/haniel-ayatode-893836296
 
-🌍 Togo
+🌍 Togo/lomé/ségbé
 
 ---
 
