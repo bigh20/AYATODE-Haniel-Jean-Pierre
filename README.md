@@ -1,212 +1,190 @@
-# AYATODE HANIEL JEAN-PIERRE
+<div align="center">
 
-## Bienvenu sur mon Portfolio
+# ⚙️ Haniel Jean Pierre Ayatode
 
-### 🎓 Je répond au nom de Haniel Jean Pierre Ayatode étudiant en Licence Professionnelle de Génie Mécanique | Concepteur CAO | Passionné par la maintenance industrielle
+### Mechanical Engineering Student • CAD Designer • Industrial Maintenance • Machine Design
 
-> *Transformer les idées en solutions mécaniques fiables et innovantes.*
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Mechanical+Engineering+Student;SolidWorks+Designer;Industrial+Maintenance+Enthusiast;Machine+Design+Learner;Always+Learning+New+Technologies"/>
 
----
+<img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile%20Views&color=0A84FF&style=for-the-badge"/>
 
-## 🚀 À propos de moi
-
-Je suis étudiant en troisième année de Licence Professionnelle en Génie Mécanique à **ESIG Global Success (Togo)**.
-
-Je m'intéresse particulièrement à :
-
-- ⚙️ la conception mécanique
-- 🔩 les systèmes de transmission
-- 🏭 la maintenance industrielle
-- 📈 la maintenance conditionnelle
-- 📊 l'analyse vibratoire
-- 🤖 l'automatisation industrielle
-- 💻 la CAO avec SolidWorks
-
-J'aime apprendre en réalisant des projets concrets qui combinent conception, calcul, fabrication et amélioration des performances des systèmes mécaniques.
+</div>
 
 ---
 
-## 🔧 Compétences
+# 👋 À propos de moi
 
-### Conception mécanique
+🎓 Étudiant en **Licence Professionnelle de Génie Mécanique** à **ESIG Global Success (Togo)**.
 
-- SolidWorks
-- Dessin technique
-- Assemblages
-- Cotation fonctionnelle
-- Conception de pièces mécaniques
+Je suis passionné par la conception mécanique, la maintenance industrielle et le développement de solutions techniques innovantes.
 
-### Génie mécanique
+Je cherche constamment à améliorer mes compétences en :
 
-- Résistance des matériaux
-- Dimensionnement mécanique
-- Organes de machines
-- Métallurgie
-- Thermodynamique appliquée
-- Cinématique
+- ⚙️ Conception mécanique
+- 🔩 CAO avec SolidWorks
+- 🏭 Maintenance industrielle
+- 📈 Maintenance conditionnelle
+- 📊 Analyse vibratoire
+- 🤖 Automatisation industrielle
+- 🛠️ Dimensionnement des systèmes mécaniques
 
-### Maintenance
+---
 
-- Maintenance préventive
-- Maintenance corrective
-- Maintenance conditionnelle
-- Analyse vibratoire
-- Diagnostic des machines tournantes
+# 🚀 Mes projets
+
+### 🛠️ Mini machine pédagogique d'injection plastique
+
+- Modélisation 3D
+- Plans techniques
 - AMDEC
-
-### Fabrication
-
-- Procédés d'usinage
-- Machines-outils
-- Injection plastique
-- Choix des matériaux
-
-### Automatisation
-
-- Grafcet
-- GEMMA
-- Logique industrielle
-
-### Informatique
-
-- Git
-- GitHub
-- Microsoft Office
-- Notions de Python
-- Markdown
+- Diagramme FAST
+- Diagramme Pieuvre
+- Choix des composants
 
 ---
 
-# 📂 Projets
+### 📈 Optimisation de la maintenance conditionnelle par analyse vibratoire
 
-## 🛠️ Mini machine pédagogique d'injection plastique
+Mémoire portant sur :
 
-Conception complète d'une machine destinée à la formation.
-
-✔️ CAO 3D SolidWorks
-
-✔️ Diagramme FAST
-
-✔️ Diagramme Pieuvre
-
-✔️ AMDEC
-
-✔️ Choix des composants
-
-✔️ Plans techniques
+- Diagnostic vibratoire
+- Maintenance prédictive
+- Détection précoce des défauts
+- Fiabilité des machines tournantes
 
 ---
 
-## 📊 Optimisation de la maintenance conditionnelle par analyse vibratoire
+### 🏭 Étude de faisabilité d'une unité de transformation alimentaire
 
-Mémoire de licence portant sur :
-
-- surveillance des machines tournantes
-- détection précoce des défauts
-- maintenance prédictive
-- optimisation des interventions
+- Étude technique
+- Choix des moteurs
+- Analyse économique
+- Maintenance
 
 ---
 
-## ⚙️ Étude de faisabilité d'une unité de transformation alimentaire
+### 🚜 Stage professionnel
 
-Projet comprenant :
+**Port Autonome de Lomé**
 
-- étude technique
-- étude économique
-- choix des moteurs
-- implantation
-- maintenance
-
----
-
-## 🚜 Maintenance poids lourds
-
-Stage professionnel réalisé au **Port Autonome de Lomé**
-
-Travaux effectués :
+Interventions réalisées :
 
 - Diagnostic mécanique
-- Entretien préventif
 - Réparation de boîtes de vitesses
-- Suspension
+- Entretien poids lourds
 - Chariot élévateur
-- Maintenance de véhicules industriels
+- Maintenance préventive
 
 ---
 
-# 📚 Ce que j'apprends actuellement
+# 🛠️ Technologies & Outils
 
-- Analyse vibratoire avancée
-- Maintenance prédictive
-- Conception de machines spéciales
-- Calcul par éléments finis
-- Optimisation de conception
-- Git & GitHub
-- Python appliqué à l'ingénierie
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/SolidWorks-CAO-red?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
 
-# 📈 Objectifs
+<img src="https://img.shields.io/badge/Microsoft%20365-Office-blue?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
-Je souhaite évoluer vers les domaines suivants :
+<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-- Mechanical Design Engineer
-- Maintenance Engineer
-- Reliability Engineer
-- Industrial Engineer
-- CAD Designer
-- Production Engineer
+<img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+
+</div>
 
 ---
 
-# 📊 Statistiques GitHub
+# 📚 Domaines de compétences
 
-<p align="center">
+```text
+✔️ Mechanical Design
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight"/>
+✔️ CAD Modeling
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight"/>
+✔️ Engineering Drawing
 
-</p>
+✔️ Machine Elements
+
+✔️ Industrial Maintenance
+
+✔️ Condition Monitoring
+
+✔️ Vibration Analysis
+
+✔️ Preventive Maintenance
+
+✔️ Reliability Engineering
+
+✔️ Manufacturing Processes
+
+✔️ Injection Molding
+
+✔️ Technical Documentation
+```
 
 ---
 
-## 🛠️ Technologies
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,markdown"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight"/>
 
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight"/>
 
-<p align="center">
+</div>
 
-<img src="https://img.shields.io/badge/SolidWorks-CAO-red?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20365-Productivity-blue?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+---
 
-</p>
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=tokyonight&column=4"/>
+
+</div>
+
+---
+
+# 🎯 Objectifs
+
+- 🎓 Obtenir mon diplôme de Licence Professionnelle en Génie Mécanique
+- ⚙️ Concevoir des machines innovantes
+- 🏭 Devenir ingénieur en maintenance industrielle
+- 📈 Me spécialiser en maintenance prédictive
+- 🌍 Contribuer à des projets industriels à fort impact
 
 ---
 
 # 📫 Me contacter
 
-📧 Email : ayatodehaniel@gmail.com
+📍 **Ségbé/Lomé, Togo**
 
-📞 Appel : +228 91 01 46 46
+📞 **Appel :** +228 91 01 46 46
 
-💬 WhatsApp : +228 91 01 46 46
+💬 **WhatsApp :** +228 91 01 46 46
 
-💼 LinkedIn : www.linkedin.com/in/haniel-ayatode-893836296
+📧 **Email :** ayatodehaniel@gmail.com
 
-🌍 Togo/lomé/ségbé
-
----
-
-## 💡 Citation
-
-> *"Une bonne conception réduit les coûts, une bonne maintenance garantit les performances."*
+💼 **LinkedIn :** www.linkedin.com/in/haniel-ayatode-893836296
 
 ---
+
+<div align="center">
+
+### 💡 *"Engineering is not only about building machines, it's about building solutions."*
 
 ⭐ Merci de visiter mon profil !
+
+</div>
