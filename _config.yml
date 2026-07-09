@@ -1,9 +1,9 @@
-```yaml
 # ==========================================
 # Site
 # ==========================================
 title: Haniel Jean Pierre Ayatode
 email: your.email@example.com
+...
 description: >-
   Mechanical Engineering Student | CAD Designer |
   Industrial Maintenance | SolidWorks Enthusiast
@@ -139,4 +139,3 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-```
