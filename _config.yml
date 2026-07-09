@@ -1,0 +1,142 @@
+```yaml
+# ==========================================
+# Site
+# ==========================================
+title: Haniel Jean Pierre Ayatode
+email: your.email@example.com
+description: >-
+  Mechanical Engineering Student | CAD Designer |
+  Industrial Maintenance | SolidWorks Enthusiast
+
+url: "https://TON_USERNAME.github.io"
+baseurl: ""
+
+lang: en
+timezone: Africa/Lome
+
+# ==========================================
+# Author
+# ==========================================
+author:
+  name: Haniel Jean Pierre Ayatode
+  avatar: /assets/img/profile.png
+  bio: >
+    Final-year Mechanical Engineering Student passionate
+    about Mechanical Design, CAD, Industrial Maintenance,
+    Machine Design and Condition-Based Maintenance.
+
+  location: Lomé, Togo
+
+# ==========================================
+# Contact
+# ==========================================
+phone: "+22891014646"
+whatsapp: "+22891014646"
+
+social:
+  github: TON_USERNAME
+  linkedin: your-linkedin
+  email: your.email@example.com
+
+# ==========================================
+# Portfolio
+# ==========================================
+profession: Mechanical Engineering Student
+
+tagline: >
+  Designing Reliable Machines • Solving Engineering Problems
+
+interests:
+  - Mechanical Design
+  - SolidWorks
+  - Machine Design
+  - Industrial Maintenance
+  - Vibration Analysis
+  - Reliability Engineering
+  - Injection Molding
+  - CAD
+
+# ==========================================
+# Navigation
+# ==========================================
+nav:
+  - Home
+  - About
+  - Skills
+  - Projects
+  - Experience
+  - Contact
+
+# ==========================================
+# Build
+# ==========================================
+markdown: kramdown
+highlighter: rouge
+
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ==========================================
+# Defaults
+# ==========================================
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+# ==========================================
+# Theme
+# ==========================================
+theme_color: "#0f172a"
+accent_color: "#3b82f6"
+
+# ==========================================
+# Skills
+# ==========================================
+skills:
+  - SolidWorks
+  - Mechanical Design
+  - Engineering Drawing
+  - Industrial Maintenance
+  - Machine Design
+  - Condition Monitoring
+  - Vibration Analysis
+  - Microsoft 365
+  - Git
+  - GitHub
+  - Markdown
+
+# ==========================================
+# Projects
+# ==========================================
+featured_projects:
+  - Educational Plastic Injection Machine
+  - Condition-Based Maintenance
+  - Vibration Analysis
+  - Heavy Vehicle Maintenance
+  - Feasibility Study
+
+# ==========================================
+# Footer
+# ==========================================
+footer: >
+  © 2026 Haniel Jean Pierre Ayatode.
+  Built with Jekyll & GitHub Pages.
+
+# ==========================================
+# Exclude
+# ==========================================
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+```
