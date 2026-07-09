@@ -170,11 +170,18 @@ Je souhaite évoluer vers les domaines suivants :
 
 ---
 
-# 🛠️ Technologies
+## 🛠️ Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,solidworks,microsoft365,markdown"/>
+<img src="https://skillicons.dev/icons?i=git,github,markdown"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SolidWorks-CAO-red?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20365-Productivity-blue?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 
 </p>
 
