@@ -1,6 +1,6 @@
-# Je répond au nom de Haniel Jean Pierre Ayatode
+# Bienvenu sur mon Portfolio
 
-### 🎓 Étudiant en Licence Professionnelle de Génie Mécanique | Concepteur CAO | Passionné par la maintenance industrielle
+### 🎓 Je répond au nom de Haniel Jean Pierre Ayatode étudiant en Licence Professionnelle de Génie Mécanique | Concepteur CAO | Passionné par la maintenance industrielle
 
 > *Transformer les idées en solutions mécaniques fiables et innovantes.*
 
