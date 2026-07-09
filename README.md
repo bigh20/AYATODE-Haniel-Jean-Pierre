@@ -174,7 +174,7 @@ Je souhaite évoluer vers les domaines suivants :
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,python,vscode,markdown"/>
+<img src="https://skillicons.dev/icons?i=git,solidworks,microsoft365,markdown"/>
 
 </p>
 
@@ -182,9 +182,9 @@ Je souhaite évoluer vers les domaines suivants :
 
 # 📫 Me contacter
 
-📧 Email : ton.email@example.com
+📧 Email : ton.ayatodehaniel@gmail.com
 
-💼 LinkedIn : https://linkedin.com/in/ton-profil
+💼 LinkedIn : www.linkedin.com/in/haniel-ayatode-893836296
 
 🌍 Togo
 
